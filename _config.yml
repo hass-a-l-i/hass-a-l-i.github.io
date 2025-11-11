@@ -1,3 +1,8 @@
 title: Hassan’s Website
 description: MSc Computer Science | Category Theory | Quant Finance
 theme: minima
+
+# Navigation menu
+header_pages:
+  - about.md
+  - projects.md
