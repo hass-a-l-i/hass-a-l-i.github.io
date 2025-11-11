@@ -11,7 +11,7 @@ Welcome to my website! I use this space to voice the thoughts I have and share m
 - Category theory
 - Quantum programming languages
 
-I emjoy coding in my spare time too! I recently programmed a rudimentary chess engine in Python and have made various games in C++ such as the card game War. 
+I enjoy coding in my spare time too! I recently programmed a rudimentary chess engine in Python and have made various games in C++ such as the card game War. 
 
 I will be posting quite randomly here so if your expecting consistency 
 ## My Projects
