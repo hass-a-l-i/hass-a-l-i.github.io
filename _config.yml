@@ -1,9 +1,0 @@
-title: H Space
-description: Mathematics | Physics | Finance | Religion | Philosophy
-theme: minima
-
-# Navigation menu
-header_pages:
-  - about.md
-  - projects.md
-  - blog.md
